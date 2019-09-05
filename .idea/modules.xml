@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/qc-pro-admin/qc-pro-admin.iml" filepath="$PROJECT_DIR$/qc-pro-admin/qc-pro-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qc-pro-common/qc-pro-common.iml" filepath="$PROJECT_DIR$/qc-pro-common/qc-pro-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qc-pro-service/qc-pro-service.iml" filepath="$PROJECT_DIR$/qc-pro-service/qc-pro-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qcOneProject.iml" filepath="$PROJECT_DIR$/qcOneProject.iml" />
+    </modules>
+  </component>
+</project>
